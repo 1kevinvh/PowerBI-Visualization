@@ -1,6 +1,6 @@
-# HoK_PowerBI
+# Intro
 
-These are my PowerBI projects and practice. To open the file, download the PowerBI file from the projects folder by clicking download and open the file in PowerBI. 
+This is a project I worked on to practice and showcase PowerBI and Data Visualization skills. I downloaded the data from kaggle.com and imported it into PowerBI. To open the file, download the PowerBI file from the projects folder by clicking download and open the file in PowerBI. 
 
 ## Personal Project, Data Visualization: Superstore Sales Dashboard
 
